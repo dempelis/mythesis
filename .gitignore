@@ -38,3 +38,4 @@ Icon
 # files to ignore
 .vagrant/
 openshift.txt
+tags

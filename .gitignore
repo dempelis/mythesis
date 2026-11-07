@@ -39,3 +39,5 @@ Icon
 .vagrant/
 openshift.txt
 tags
+.claude/settings.local.json
+.claude/worktrees
